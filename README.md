@@ -1,1 +1,1 @@
-# webpack-basics
+# This is a practice on basic webpack concepts.
