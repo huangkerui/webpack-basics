@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/huangkerui/webpack-basics/issues"
   },
-  "homepage": "https://github.com/huangkerui/webpack-basics#readme"
+  "homepage": "https://github.com/huangkerui/webpack-basics#readme",
+  "dependencies": {
+    "webpack": "^1.13.2"
+  }
 }
