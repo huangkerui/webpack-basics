@@ -1,0 +1,19 @@
+{
+  "name": "webpack-basics",
+  "version": "0.0.1",
+  "description": "An exercise of basic concept of webpack.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangkerui/webpack-basics.git"
+  },
+  "author": "huangkerui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huangkerui/webpack-basics/issues"
+  },
+  "homepage": "https://github.com/huangkerui/webpack-basics#readme"
+}
